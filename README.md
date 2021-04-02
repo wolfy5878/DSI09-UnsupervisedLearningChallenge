@@ -1,5 +1,3 @@
-# WORK IN PROGRESS!!
-
 # Barbados Rum in Iowa!
 
 ![Rum3](https://user-images.githubusercontent.com/10410903/112689518-d068f780-8e50-11eb-8af7-c036134810b3.jpg)
